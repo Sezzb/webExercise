@@ -11,7 +11,7 @@ paths:
       summary: get content
       responses:
         '200':
-          description: 查询文章内容
+          description: "查询文章内容"
           content:
             application/json:
              schema:
@@ -27,7 +27,7 @@ paths:
       summary: get artices
       responses:
         '200':
-          description: 查询文章列表
+          description: "查询文章列表"
           content:
             application/json:
              schema:
